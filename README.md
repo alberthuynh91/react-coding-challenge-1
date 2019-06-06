@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## React Coding Challenge
 
-Clone down the repo and start the app by running `npm start`. Hot reloading is enabled so you will see  live updates in localhost when you make changes to your code.
+Clone down the repo and start the app by running `npm start`. Hot reloading is enabled so you will see  live updates in localhost when you make changes to your code. This coding challenge ideally should only take 1-2 hours max.
 
 ### Instructions
 
